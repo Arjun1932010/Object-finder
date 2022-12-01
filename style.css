@@ -13,6 +13,7 @@ canvas{
     box-shadow:3px 3px 3px blue;
     border-radius:10px;
     border:10px dashed crimson;
+    margin-top:200px;
 }
 #text_box{
     width:30%;
